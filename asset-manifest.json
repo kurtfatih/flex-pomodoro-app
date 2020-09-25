@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flex-pomodoro-app/static/css/main.2055938a.chunk.css",
+    "main.js": "/flex-pomodoro-app/static/js/main.1f39a994.chunk.js",
+    "main.js.map": "/flex-pomodoro-app/static/js/main.1f39a994.chunk.js.map",
+    "runtime-main.js": "/flex-pomodoro-app/static/js/runtime-main.f60b1873.js",
+    "runtime-main.js.map": "/flex-pomodoro-app/static/js/runtime-main.f60b1873.js.map",
+    "static/css/2.8ce86be7.chunk.css": "/flex-pomodoro-app/static/css/2.8ce86be7.chunk.css",
+    "static/js/2.66973b2e.chunk.js": "/flex-pomodoro-app/static/js/2.66973b2e.chunk.js",
+    "static/js/2.66973b2e.chunk.js.map": "/flex-pomodoro-app/static/js/2.66973b2e.chunk.js.map",
+    "index.html": "/flex-pomodoro-app/index.html",
+    "precache-manifest.ff6848b4973ca533915044c46c4c51ce.js": "/flex-pomodoro-app/precache-manifest.ff6848b4973ca533915044c46c4c51ce.js",
+    "service-worker.js": "/flex-pomodoro-app/service-worker.js",
+    "static/css/2.8ce86be7.chunk.css.map": "/flex-pomodoro-app/static/css/2.8ce86be7.chunk.css.map",
+    "static/css/main.2055938a.chunk.css.map": "/flex-pomodoro-app/static/css/main.2055938a.chunk.css.map",
+    "static/js/2.66973b2e.chunk.js.LICENSE.txt": "/flex-pomodoro-app/static/js/2.66973b2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f60b1873.js",
+    "static/css/2.8ce86be7.chunk.css",
+    "static/js/2.66973b2e.chunk.js",
+    "static/css/main.2055938a.chunk.css",
+    "static/js/main.1f39a994.chunk.js"
+  ]
+}
